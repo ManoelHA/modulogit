@@ -7,6 +7,3 @@ alguma nova linha
 
 
 Meu Primeiro Sistema no git remoto
-
-
-ghddfgdfg
